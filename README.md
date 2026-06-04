@@ -1,4 +1,4 @@
-# Titanic-Survival-Prediction-Linear-Regression
+# Titanic-Survival-Prediction-Logistic-Regression
 
 ## Problem Statement
 Predict whether a passenger survived the Titanic disaster using Logistic Regression.
